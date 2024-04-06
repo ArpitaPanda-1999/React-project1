@@ -1,0 +1,112 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1{
+  color: blue;
+  font-size: 40px;
+  font-weight: normal;
+  text-align: center;
+
+}
+
+.container{
+  width: 80%;
+  margin: auto;
+  min-height: 400px;
+}
+
+table{
+  border-collapse: collapse;
+  margin: 15px;
+  text-align: center;
+}
+
+th{
+   color: orangered;
+}
+
+tr,th,td{
+  border: 0.5px solid black;
+  padding: 10px 30px 10px;
+  color: black;
+}
+
+.four{
+  margin: 2%;
+  width: 20%;
+  font-size: 35px;
+  color: blueviolet;
+  display: inline-block;
+}
+
+fieldset{
+  margin: 2%;
+  width: 17%;
+  display: inline-block;
+  vertical-align: top;
+  border: 1px solid red;
+  border-radius: 5px;
+  color: blueviolet;
+}
+
+legend{
+  padding: 6px 20px 6px;
+  background: darkred;
+  color: white;
+  font-size: 18px;
+  border-radius: 5px;
+}
+
+.mylink{
+  margin-left: 10px;
+  font-size: 22px;
+  text-decoration: none;
+  color: wheat;
+}
+
+header{
+  padding: 15px;
+  text-align: center;
+  background-color: rgb(3,71,154);
+}
+
+img{
+  margin: 15px;
+  cursor: pointer;
+}
+
+img:hover{
+  box-shadow: 0px 0px 20px red;
+}
+
+button{
+  margin: 5px;
+  font-size: 17px;
+  color: blueviolet;
+  cursor: pointer;
+}
+
+.Myblog{
+  margin: 2%;
+  width: 45%;
+  cursor: pointer;
+  display: inline-block;
+  vertical-align: top;
+}
+.user{
+  margin:10%;
+  font-size: 30px;
+  text-align: center;
+
+}
