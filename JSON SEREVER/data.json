@@ -1,0 +1,48 @@
+{
+  "emplist": [
+    {
+      "name": "Ramesh",
+      "city": "Pune",
+      "skills": "Java",
+      "salary": "1",
+      "id": "1"
+    },
+    {
+      "name": "fghjkljmhgfd",
+      "city": "fred",
+      "skills": "erf",
+      "salary": "34567",
+      "id": "42bf"
+    },
+    {
+      "name": "fghjkljmhgfd",
+      "city": "fred",
+      "skills": "erf",
+      "salary": "3456",
+      "id": "f722"
+    },
+    {
+      "id": "4d72",
+      "name": "Ramesh",
+      "city": "Pune",
+      "skills": "Java",
+      "salary": "10"
+    }
+  ],
+  "products": [
+    {
+      "id": "b1ac",
+      "pname": "laptop",
+      "pprice": "8765432",
+      "pcategory": "wert",
+      "pcolor": "red"
+    },
+    {
+      "pname": "gr",
+      "pprice": "teg",
+      "pcategory": "etg",
+      "pcolor": "4ht",
+      "id": "79f9"
+    }
+  ]
+}

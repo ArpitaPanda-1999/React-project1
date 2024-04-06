@@ -1,0 +1,16 @@
+{
+    "account" : [
+        {
+            "id": 1,
+            "name": "Admin",
+            "email": "Z7bQO@example.com",
+            "password": "admin123",
+            "token" : "admin123"
+        }
+
+    ],
+    
+    "product" : [],
+    "cart" : [],
+    "order" : []
+}

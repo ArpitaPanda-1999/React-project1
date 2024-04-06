@@ -1,0 +1,47 @@
+{
+  "account": {
+    "id": 1,
+    "fullname": "Admin 1",
+    "email": "arpita@acf.co",
+    "password": "234567jhgfd"
+  },
+  "product": [
+    {
+      "id": "dfa0",
+      "pname": "Mouse Dell",
+      "price": 800,
+      "photo": "pic1.jpg",
+      "details": "gyugh"
+    },
+    {
+      "id": "8f54",
+      "pname": "Mouse Dell",
+      "price": 800,
+      "photo": "pic1.jpg",
+      "details": "gyugh"
+    },
+    {
+      "id": "af67",
+      "pname": "Mouse Dell",
+      "price": 800,
+      "photo": "pic1.jpg",
+      "details": "gyugh"
+    },
+    {
+      "id": "3cc5",
+      "pname": "qwert5y67ui",
+      "price": "werty",
+      "photo": "ert",
+      "details": "ewedf"
+    },
+    {
+      "id": "e9b5",
+      "pname": "werth",
+      "price": "wertyuj",
+      "photo": "pic3.jpg",
+      "details": "e4r5t6yu"
+    }
+  ],
+  "cart": [],
+  "order": []
+}
